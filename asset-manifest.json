@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/crown-stack-assignment/static/css/main.7838ff3c.chunk.css",
+    "main.js": "/github.io/crown-stack-assignment/static/js/main.fccd59f9.chunk.js",
+    "main.js.map": "/github.io/crown-stack-assignment/static/js/main.fccd59f9.chunk.js.map",
+    "runtime-main.js": "/github.io/crown-stack-assignment/static/js/runtime-main.dc3b4932.js",
+    "runtime-main.js.map": "/github.io/crown-stack-assignment/static/js/runtime-main.dc3b4932.js.map",
+    "static/js/2.7f62085f.chunk.js": "/github.io/crown-stack-assignment/static/js/2.7f62085f.chunk.js",
+    "static/js/2.7f62085f.chunk.js.map": "/github.io/crown-stack-assignment/static/js/2.7f62085f.chunk.js.map",
+    "index.html": "/github.io/crown-stack-assignment/index.html",
+    "precache-manifest.8d9b97bd71e1fce57437eb6aa292f5a4.js": "/github.io/crown-stack-assignment/precache-manifest.8d9b97bd71e1fce57437eb6aa292f5a4.js",
+    "service-worker.js": "/github.io/crown-stack-assignment/service-worker.js",
+    "static/css/main.7838ff3c.chunk.css.map": "/github.io/crown-stack-assignment/static/css/main.7838ff3c.chunk.css.map",
+    "static/js/2.7f62085f.chunk.js.LICENSE.txt": "/github.io/crown-stack-assignment/static/js/2.7f62085f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc3b4932.js",
+    "static/js/2.7f62085f.chunk.js",
+    "static/css/main.7838ff3c.chunk.css",
+    "static/js/main.fccd59f9.chunk.js"
+  ]
+}
