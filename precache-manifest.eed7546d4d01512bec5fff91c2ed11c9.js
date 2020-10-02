@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f4bb5f7335e143af45c246dce3806d7",
+    "revision": "52ed492a5cd695319d3677d43be9ce9c",
     "url": "/crown-stack-assignment/index.html"
   },
   {
-    "revision": "fede965f2942ff7fcdb8",
+    "revision": "88bfde9d2f9ba32bc635",
     "url": "/crown-stack-assignment/static/css/main.7838ff3c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crown-stack-assignment/static/js/2.7f62085f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fede965f2942ff7fcdb8",
-    "url": "/crown-stack-assignment/static/js/main.dab8b0d1.chunk.js"
+    "revision": "88bfde9d2f9ba32bc635",
+    "url": "/crown-stack-assignment/static/js/main.7a13e23f.chunk.js"
   },
   {
     "revision": "ab50d1f158272d04c6eb",
