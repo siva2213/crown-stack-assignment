@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/crown-stack-assignment/static/css/main.7838ff3c.chunk.css",
-    "main.js": "/crown-stack-assignment/static/js/main.c88bc797.chunk.js",
-    "main.js.map": "/crown-stack-assignment/static/js/main.c88bc797.chunk.js.map",
+    "main.js": "/crown-stack-assignment/static/js/main.bbd5eda5.chunk.js",
+    "main.js.map": "/crown-stack-assignment/static/js/main.bbd5eda5.chunk.js.map",
     "runtime-main.js": "/crown-stack-assignment/static/js/runtime-main.1dde10db.js",
     "runtime-main.js.map": "/crown-stack-assignment/static/js/runtime-main.1dde10db.js.map",
     "static/js/2.7f62085f.chunk.js": "/crown-stack-assignment/static/js/2.7f62085f.chunk.js",
     "static/js/2.7f62085f.chunk.js.map": "/crown-stack-assignment/static/js/2.7f62085f.chunk.js.map",
     "index.html": "/crown-stack-assignment/index.html",
-    "precache-manifest.36c7465d0344832ea32bf26b8aefe9d4.js": "/crown-stack-assignment/precache-manifest.36c7465d0344832ea32bf26b8aefe9d4.js",
+    "precache-manifest.8a4d1de22500082d249f2e0b1d584158.js": "/crown-stack-assignment/precache-manifest.8a4d1de22500082d249f2e0b1d584158.js",
     "service-worker.js": "/crown-stack-assignment/service-worker.js",
     "static/css/main.7838ff3c.chunk.css.map": "/crown-stack-assignment/static/css/main.7838ff3c.chunk.css.map",
     "static/js/2.7f62085f.chunk.js.LICENSE.txt": "/crown-stack-assignment/static/js/2.7f62085f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1dde10db.js",
     "static/js/2.7f62085f.chunk.js",
     "static/css/main.7838ff3c.chunk.css",
-    "static/js/main.c88bc797.chunk.js"
+    "static/js/main.bbd5eda5.chunk.js"
   ]
 }
